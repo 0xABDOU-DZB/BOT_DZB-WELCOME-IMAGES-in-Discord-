@@ -1,0 +1,16 @@
+{
+  "name_DZB": "welcome",
+  "version": "1.0.0",
+  "main""index.js"
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^12.4.1",
+    "node.js": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ABDOU_ DZB 🍆#9662",
+  "license": "GPL-3.0"
+}
