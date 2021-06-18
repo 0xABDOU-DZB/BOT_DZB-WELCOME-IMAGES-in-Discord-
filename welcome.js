@@ -84,4 +84,4 @@ module.exports = function (client) {
     })
 }
 
-//Coded by Tomato#6966!
+//Coded by ABDOU_ DZB 🍆#9662!
